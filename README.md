@@ -3,8 +3,6 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350" height="350">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basitmanzoor" alt="basitmanzoor" /></a> </p>
-
 - 🔭 I’m currently working on [Web Development](https://iquasar.com/)
 
 - 🌱 I’m currently learning **Spring, Spring Boot, JavaScript**
@@ -32,4 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basitmanzoor&show_icons=true&locale=en" alt="basitmanzoor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basitmanzoor&" alt="basitmanzoor" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basitmanzoor" alt="basitmanzoor" /></a> </p>
 
